@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merry1993&label=Profile%20views&color=0e75b6&style=flat" alt="merry1993" /> </p>
 
-- 🌱 I have **finished my Associate of Science in Computer Science, and continuing my BSCS. I am seeking an internship or entry-level position to leverage my skills in software development, problem-solving, and programming. Also holding certifications in nutrition and medical sciences, I bring a multidisciplinary perspective to the field.**
+- 🌱 I have **finished my Bachelor of Science in Computer Science. I am seeking an internship or entry-level position to leverage my skills in software development, problem-solving, and programming. Also holding certifications in nutrition (Nutritional Therapist) and medical sciences, I bring a multidisciplinary perspective to the field.**
 
 - ⚡ Fun fact **I sometimes make YouTube videos. I love to cook for my kids, friends and family.**
 
