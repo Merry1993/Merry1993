@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Merry Amena</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh, currently living in USA.</h3>
+<h3 align="center">Let's Connect in LinkedIn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merry1993&label=Profile%20views&color=0e75b6&style=flat" alt="merry1993" /> </p>
 
-- 🌱 I have **finished my Bachelor of Science in Computer Science. I am seeking an internship or entry-level position to leverage my skills in software development, problem-solving, and programming. Also holding certifications in nutrition (Nutritional Therapist) and medical sciences, I bring a multidisciplinary perspective to the field.**
+- 🌱 I have **completed my Bachelor of Science in Computer Science, minor in Business Administration. I am seeking an opportunity to leverage my skills in analytics, software development, problem-solving, and programming. Also holding certifications in nutrition (Nutritional Therapist) and medical sciences, I bring a multidisciplinary perspective to the field.**
 
 - ⚡ Fun fact **I sometimes make YouTube videos. I love to cook for my kids, friends and family.**
 
